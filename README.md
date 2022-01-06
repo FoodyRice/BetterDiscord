@@ -1,2 +1,2 @@
-# BetterDiscord
-BetterDiscord Things
+# FoodyRice / BetterDiscord
+Things here are for BetterDiscord
