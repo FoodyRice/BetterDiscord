@@ -6,4 +6,4 @@
  * @authorLink https://www.youtube.com/channel/UC8OAmRGcLAURuAJSSD1lDPg
 */
 
-@import url(https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/CharCounter/CharCounter.plugin.js)
+import 'https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/CharCounter/CharCounter.plugin.js'
